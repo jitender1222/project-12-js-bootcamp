@@ -9,7 +9,7 @@ This is Project-12 of javascript bootcamp.
 
 I use **flexbox** to make this Project.
 
-I took me **45min** to complete this project.
+I took me **1hr45min** to complete this project.
 
 [Live-Link](https://best-business-solution.netlify.app/)
 
